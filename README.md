@@ -16,3 +16,4 @@
 </div>
   
   ##
+<div onload="console.log('teste ok')"></div>
